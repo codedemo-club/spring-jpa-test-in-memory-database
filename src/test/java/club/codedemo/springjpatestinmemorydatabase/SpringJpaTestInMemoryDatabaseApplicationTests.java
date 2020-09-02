@@ -9,5 +9,4 @@ class SpringJpaTestInMemoryDatabaseApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
